@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Using Cholesterol and Blood Pressure to Classify Heart Disease Patients from Cleveland
+By: Livleen Randhawa
